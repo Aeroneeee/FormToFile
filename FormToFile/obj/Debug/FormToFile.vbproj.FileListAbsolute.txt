@@ -1,0 +1,11 @@
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\bin\Debug\FormToFile.exe.config
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\bin\Debug\FormToFile.exe
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\bin\Debug\FormToFile.pdb
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\bin\Debug\FormToFile.xml
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.vbprojAssemblyReference.cache
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.Form1.resources
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.Resources.resources
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.vbproj.GenerateResource.cache
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.exe
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.xml
+C:\Users\Aerone\Documents\Visual Studio 2019\FormToFile\FormToFile\obj\Debug\FormToFile.pdb
