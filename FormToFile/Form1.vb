@@ -62,6 +62,10 @@
 
             MsgBox("Successfully saved the file.", MsgBoxStyle.Information, "Successfully Saved")
 
+            nametxtbox.Clear()
+            agetxtbox.Clear()
+            addresstxtbox.Clear()
+
             Return True
 
         Else
@@ -72,6 +76,8 @@
         End If
 
     End Function
+
+
 
     Private Sub closeBtn_MouseHover(sender As Object, e As EventArgs) Handles closeBtn.MouseHover
         closeBtn.BackColor = Color.Pink
